@@ -1,3 +1,3 @@
 Delphino Luciani de Paula Araujo Filho
-aula de pratica para git, sempre bom praticar, para assim fixar melhor o conteudo na mente
+Aula de pratica para git, sempre bom praticar, para assim fixar melhor o conteudo na mente
 Processamento de Linguagem Natural
